@@ -2,8 +2,8 @@
   "android": {
     "latest_version": "1.1.0",
     "min_supported_version": "1.0.0",
-    "store_url": "market://details?id=in.ikshvaku.gog",
-    "fallback_url": "https://play.google.com/store/apps/details?id=in.ikshvaku.gog",
+    "store_url": "https://pranavpaharia.github.io/gog-updates/",
+    "fallback_url": "https://pranavpaharia.github.io/gog-updates/",
     "title": "WHAT'S NEW IN GANGS OF GADDIS",
     "release_notes": "Major vehicular combat update featuring new handling mechanics, audio polish, and enhanced multiplayer netcode.",
     "release_sections": [
@@ -33,13 +33,46 @@
         ]
       }
     ],
+    "locales": {
+      "hi": {
+        "title": "गैंग्स ऑफ गद्दीस में क्या नया है",
+        "release_notes": "नया वाहन मुकाबला अपडेट: नई हैंडलिंग फिजिक्स, बेहतर ऑडियो और उन्नत मल्टीप्लेयर नेटकोड।",
+        "release_sections": [
+          {
+            "category": "वाहन और मुकाबला",
+            "tag_color": "#FF5252",
+            "items": [
+              "एम्बेसडर और फेरारी की हैंडलिंग में सुधार, रियलिस्टिक ड्रिफ्ट फिजिक्स।",
+              "नाइट्रो बूस्ट VFX ओवरहाल, मल्टी-स्टेज एग्जॉस्ट फ्लेयर।",
+              "मशीन गन ऑडियो और डायनामिक वेपन रिकॉइल।"
+            ]
+          },
+          {
+            "category": "मैप और इलाके",
+            "tag_color": "#FFD700",
+            "items": [
+              "मोहल्ला सबर्ब्स में नए रोडसाइड एलिमेंट्स, बिजली के खंभे और बस स्टॉप।",
+              "सड़कों के लिए हाई-कंट्रास्ट मोबाइल रीडेबिलिटी ट्यूनिंग।"
+            ]
+          },
+          {
+            "category": "परफॉर्मेंस और स्थिरता",
+            "tag_color": "#00E5FF",
+            "items": [
+              "आईफोन 15 प्रो और वनप्लस पर स्मूथ 60 FPS फ्रेम पेसिंग।",
+              "सब-2s EOS ऑनलाइन मैचमेकिंग सेशन।"
+            ]
+          }
+        ]
+      }
+    },
     "force_update": false
   },
   "ios": {
     "latest_version": "1.1.0",
     "min_supported_version": "1.0.0",
-    "store_url": "itms-apps://itunes.apple.com/app/id6470000000",
-    "fallback_url": "https://apps.apple.com/app/id6470000000",
+    "store_url": "https://pranavpaharia.github.io/gog-updates/",
+    "fallback_url": "https://pranavpaharia.github.io/gog-updates/",
     "title": "WHAT'S NEW IN GANGS OF GADDIS",
     "release_notes": "Major vehicular combat update featuring new handling mechanics, audio polish, and enhanced multiplayer netcode.",
     "release_sections": [
@@ -69,11 +102,50 @@
         ]
       }
     ],
+    "locales": {
+      "hi": {
+        "title": "गैंग्स ऑफ गद्दीस में क्या नया है",
+        "release_notes": "नया वाहन मुकाबला अपडेट: नई हैंडलिंग फिजिक्स, बेहतर ऑडियो और उन्नत मल्टीप्लेयर नेटकोड।",
+        "release_sections": [
+          {
+            "category": "वाहन और मुकाबला",
+            "tag_color": "#FF5252",
+            "items": [
+              "एम्बेसडर और फेरारी की हैंडलिंग में सुधार, रियलिस्टिक ड्रिफ्ट फिजिक्स।",
+              "नाइट्रो बूस्ट VFX ओवरहाल, मल्टी-स्टेज एग्जॉस्ट फ्लेयर।",
+              "मशीन गन ऑडियो और डायनामिक वेपन रिकॉइल।"
+            ]
+          },
+          {
+            "category": "मैप और इलाके",
+            "tag_color": "#FFD700",
+            "items": [
+              "मोहल्ला सबर्ब्स में नए रोडसाइड एलिमेंट्स, बिजली के खंभे और बस स्टॉप।",
+              "सड़कों के लिए हाई-कंट्रास्ट मोबाइल रीडेबिलिटी ट्यूनिंग।"
+            ]
+          },
+          {
+            "category": "परफॉर्मेंस और स्थिरता",
+            "tag_color": "#00E5FF",
+            "items": [
+              "आईफोन 15 प्रो और वनप्लस पर स्मूथ 60 FPS फ्रेम पेसिंग।",
+              "सब-2s EOS ऑनलाइन मैचमेकिंग सेशन।"
+            ]
+          }
+        ]
+      }
+    },
     "force_update": false
   },
   "maintenance": {
     "is_under_maintenance": false,
     "title": "Scheduled Server Maintenance",
-    "message": "Gangs of Gaddis servers are currently undergoing maintenance. Please check back shortly."
+    "message": "Gangs of Gaddis servers are currently undergoing maintenance. Please check back shortly.",
+    "locales": {
+      "hi": {
+        "title": "नियमित सर्वर रखरखाव",
+        "message": "गैंग्स ऑफ गद्दीस के सर्वर वर्तमान में रखरखाव के दौर से गुजर रहे हैं। कृपया कुछ समय बाद पुनः प्रयास करें।"
+      }
+    }
   }
 }
