@@ -2,8 +2,8 @@
   "android": {
     "latest_version": "1.1.0",
     "min_supported_version": "1.0.0",
-    "store_url": "https://pranavpaharia.github.io/gog-updates/",
-    "fallback_url": "https://pranavpaharia.github.io/gog-updates/",
+    "store_url": "market://details?id=in.ikshvaku.gog",
+    "fallback_url": "https://play.google.com/store/apps/details?id=in.ikshvaku.gog",
     "title": "WHAT'S NEW IN GANGS OF GADDIS",
     "release_notes": "Major vehicular combat update featuring new handling mechanics, audio polish, and enhanced multiplayer netcode.",
     "release_sections": [
@@ -71,8 +71,8 @@
   "ios": {
     "latest_version": "1.1.0",
     "min_supported_version": "1.0.0",
-    "store_url": "https://pranavpaharia.github.io/gog-updates/",
-    "fallback_url": "https://pranavpaharia.github.io/gog-updates/",
+    "store_url": "itms-apps://itunes.apple.com/app/id6470000000",
+    "fallback_url": "https://apps.apple.com/app/id6470000000",
     "title": "WHAT'S NEW IN GANGS OF GADDIS",
     "release_notes": "Major vehicular combat update featuring new handling mechanics, audio polish, and enhanced multiplayer netcode.",
     "release_sections": [
