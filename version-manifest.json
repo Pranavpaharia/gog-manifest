@@ -1,0 +1,79 @@
+{
+  "android": {
+    "latest_version": "1.1.0",
+    "min_supported_version": "1.0.0",
+    "store_url": "market://details?id=in.ikshvaku.gog",
+    "fallback_url": "https://play.google.com/store/apps/details?id=in.ikshvaku.gog",
+    "title": "WHAT'S NEW IN GANGS OF GADDIS",
+    "release_notes": "Major vehicular combat update featuring new handling mechanics, audio polish, and enhanced multiplayer netcode.",
+    "release_sections": [
+      {
+        "category": "VEHICLES & COMBAT",
+        "tag_color": "#FF5252",
+        "items": [
+          "Ambassador & Furrari handling overhaul with realistic drift physics.",
+          "Nitro boost VFX overhaul with multi-stage exhaust flare.",
+          "Machine gun audio spatialization and dynamic weapon recoil."
+        ]
+      },
+      {
+        "category": "ENVIRONMENT & MAPS",
+        "tag_color": "#FFD700",
+        "items": [
+          "New Mohalla Suburbs roadside clutter, catenary powerlines, and bus stops.",
+          "PBR road plaster shader tuning for high-contrast mobile readability."
+        ]
+      },
+      {
+        "category": "PERFORMANCE & STABILITY",
+        "tag_color": "#00E5FF",
+        "items": [
+          "Smoother 60 FPS frame pacing on iPhone 15 Pro & OnePlus devices.",
+          "Sub-2s EOS online matchmaking session handshakes."
+        ]
+      }
+    ],
+    "force_update": false
+  },
+  "ios": {
+    "latest_version": "1.1.0",
+    "min_supported_version": "1.0.0",
+    "store_url": "itms-apps://itunes.apple.com/app/id6470000000",
+    "fallback_url": "https://apps.apple.com/app/id6470000000",
+    "title": "WHAT'S NEW IN GANGS OF GADDIS",
+    "release_notes": "Major vehicular combat update featuring new handling mechanics, audio polish, and enhanced multiplayer netcode.",
+    "release_sections": [
+      {
+        "category": "VEHICLES & COMBAT",
+        "tag_color": "#FF5252",
+        "items": [
+          "Ambassador & Furrari handling overhaul with realistic drift physics.",
+          "Nitro boost VFX overhaul with multi-stage exhaust flare.",
+          "Machine gun audio spatialization and dynamic weapon recoil."
+        ]
+      },
+      {
+        "category": "ENVIRONMENT & MAPS",
+        "tag_color": "#FFD700",
+        "items": [
+          "New Mohalla Suburbs roadside clutter, catenary powerlines, and bus stops.",
+          "PBR road plaster shader tuning for high-contrast mobile readability."
+        ]
+      },
+      {
+        "category": "PERFORMANCE & STABILITY",
+        "tag_color": "#00E5FF",
+        "items": [
+          "Smoother 60 FPS frame pacing on iPhone 15 Pro & OnePlus devices.",
+          "Sub-2s EOS online matchmaking session handshakes."
+        ]
+      }
+    ],
+    "force_update": false
+  },
+  "maintenance": {
+    "is_under_maintenance": false,
+    "title": "Scheduled Server Maintenance",
+    "message": "Gangs of Gaddis servers are currently undergoing maintenance. Please check back shortly."
+  }
+}
